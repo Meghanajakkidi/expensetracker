@@ -1,0 +1,19 @@
+
+body {
+  background-color: #f8f9fa;
+}
+
+.error-text {
+  color: red;
+  font-size: 0.9em;
+}
+
+.card {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.card-body {
+  padding: 30px;
+}
